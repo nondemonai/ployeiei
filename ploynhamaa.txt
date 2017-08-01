@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+i believe i can fly prince
+=======
 i believe i can fly
 
 ka nhom tan
@@ -34,9 +37,19 @@ only
 Ciao
 
 i believe i can touch the sky
+<<<<<<< HEAD
+>>>>>>> d0e90db10f2567031ed59dc28ba70d46b520dce0
+>>>>>>> 2f715f1e4abb3d610c75efc030cd32f2954a11bb
+=======
 
 
 
 
 ployjaaaa
+<<<<<<< HEAD
 
+=======
+>>>>>>> 1b93b51e046005fdea8f814406b2afb6314ba983
+
+sawadee tuktukkhon leawpobgunmai
+>>>>>>> 989ca873c56ff251e23ee2b2e7c06c21fa065ca1
